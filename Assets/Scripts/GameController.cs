@@ -32,6 +32,7 @@ public class GameController : MonoBehaviour
 {
     //--------------------------------------
 
+    private int tst = 1;
     // General Setting & Objects
     public int GameID;                      // New Game = random number (0-10000), Load Game = stored Game ID
     public int SectorSize = 16;             // Sector size (should stay 16)
