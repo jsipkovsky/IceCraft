@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // Prepare serializable Vector 3 structure
+// TEST
 
 [System.Serializable]
 public struct SerializableVector3
